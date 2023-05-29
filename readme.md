@@ -1,6 +1,6 @@
 Microsoft Software Download Listing Script
 ==========================================
-Microsoft Software Download Listing Script checks all the products in a specified range and outputs results into a JSON file compatible with [msdl](https://github.com/ave9858/msdl).
+Microsoft Software Download Listing Script checks all the products in a specified range and outputs results into a JSON file compatible with [msdl](https://github.com/starkSV/msdl).
 
 Usage
 -----
